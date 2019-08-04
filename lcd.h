@@ -6,7 +6,6 @@
 //******************************************
 //  Libreria para control de LCD           *
 //  Modo Control 4 bits                    * 
-//  Hector Ramos
 //******************************************
 
 
